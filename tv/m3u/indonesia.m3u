@@ -27,3 +27,11 @@ http://worldlive-ios.arirang.co.kr/arirang/arirangtvworldios.mp4.m3u8
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 #EXTINF:-1 $ExtFilter="Indonesian" group-title="Indonesia",Indonesian:CNN Indonesia
 http://live.cnnindonesia.com/livecnn/cnn_live_tv2.sdp/playlist.m3u8
+#EXTINF:-1 $ExtFilter="Indonesian" group-title="Indonesia",Indonesian:Metro TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1 $ExtFilter="Indonesian" group-title="Indonesia",Indonesian:Kompas TV
+rtmp://202.137.11.52/jakarta/offair.sdp
+#EXTINF:0,Bloomberg
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
+#EXTINF:-1 group-title=”English”,NASA TV (HQ)
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=on
