@@ -31,6 +31,8 @@ http://live.cnnindonesia.com/livecnn/cnn_live_tv2.sdp/playlist.m3u8
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Indonesian" group-title="Indonesia",Indonesian:Kompas TV
 rtmp://202.137.11.52/jakarta/offair.sdp
+#EXTINF:-1 $ExtFilter="Indonesian" group-title="Indonesia",Indonesian:TV One
+http://128.199.187.12/live/tv3/index.m3u8
 #EXTINF:0,Bloomberg
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
 #EXTINF:-1 group-title=”English”,NASA TV (HQ)
